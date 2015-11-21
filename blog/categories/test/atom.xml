@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Test | 陈鹏]]></title>
+  <link href="http://www.baeeq.com/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://www.baeeq.com/"/>
+  <updated>2015-11-21T18:38:24+08:00</updated>
+  <id>http://www.baeeq.com/</id>
+  <author>
+    <name><![CDATA[陈鹏]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[测试]]></title>
+    <link href="http://www.baeeq.com/blog/2015/11/21/test2/"/>
+    <updated>2015-11-21T10:24:02+08:00</updated>
+    <id>http://www.baeeq.com/blog/2015/11/21/test2</id>
+    <content type="html"><![CDATA[<h1>再试一下!!!</h1>
+
+<h1>再试一下!!!</h1>
+
+<h1>再试一下!!!</h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[测试]]></title>
+    <link href="http://www.baeeq.com/blog/2015/11/21/test1/"/>
+    <updated>2015-11-21T10:24:02+08:00</updated>
+    <id>http://www.baeeq.com/blog/2015/11/21/test1</id>
+    <content type="html"><![CDATA[<h1>再试一下</h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[测试]]></title>
+    <link href="http://www.baeeq.com/blog/2015/11/21/test/"/>
+    <updated>2015-11-21T10:24:02+08:00</updated>
+    <id>http://www.baeeq.com/blog/2015/11/21/test</id>
+    <content type="html"><![CDATA[<h1>您好,这是测试的</h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Markdown语法]]></title>
+    <link href="http://www.baeeq.com/blog/2015/11/21/hello/"/>
+    <updated>2015-11-21T10:24:02+08:00</updated>
+    <id>http://www.baeeq.com/blog/2015/11/21/hello</id>
+    <content type="html"><![CDATA[<h1>您好,恨天</h1>
+
+<h2>您可以学到您想要的</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标量</code></p>
+
+<ul>
+<li>列表1
+
+<ul>
+<li>列表11</li>
+<li>列表12</li>
+</ul>
+</li>
+<li>列表2</li>
+<li>列表3</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="https://www.baidu.com">百度</a></p>
+
+<p><img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png" alt="图片" />
+<video width='640' height='320' preload='metadata' controls poster='https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png">https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png</a>'><source src='http://www.konghao.org/resources/video/java/03/04/09_1447853948853.mp4">http://www.konghao.org/resources/video/java/03/04/09_1447853948853.mp4</a>' ></video></p>
+
+<pre><code>public class Hello {
+    public static void main(String[] args) {
+        System.out.println("hello markdown语法");
+    }
+}
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
